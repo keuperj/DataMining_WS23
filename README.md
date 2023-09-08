@@ -5,3 +5,4 @@
 * speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
 ## Woche 1
+- NN -
