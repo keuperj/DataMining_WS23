@@ -31,3 +31,16 @@
 
 ### Aufgaben
 * [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_2/Assingment_2.1.ipynb) 
+
+## Woche 3 
+### Vorlesung
+* [Tensors and Plotting](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Lecture_03_02_Tensors_and_Plotting.ipynb)
+
+### Lab
+* [NumPy Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Lab_01_Numpy.ipynb)
+* [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb)
+ 
+
+### Aufgaben
+* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) 
+* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb)
