@@ -51,7 +51,7 @@
 * [PCA](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Lecture_04_01_PCA.ipynb)
 
 ### Labor
-* [Eigenfaces : Face Recognition](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Lab_face_recognition.ipynb) 
+* [Eigenfaces : Face Recognition](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_4/Lab_face_recognition.ipynb) 
 
 ### Aufgabe
-* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Assignment_face_recognition.ipynb)
+* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_4/Assignment_face_recognition.ipynb)
