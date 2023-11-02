@@ -42,7 +42,7 @@
  
 
 ### Aufgaben
-* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) > [Solution](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.1_solution.ipynb)
+* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.1_solution.ipynb)
 * [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb)  -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_3/Assignment_3.2_Solution.ipynb)
 
 ## Woche 4
