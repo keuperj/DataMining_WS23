@@ -55,3 +55,14 @@
 
 ### Aufgabe
 * [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_4/Assignment_face_recognition.ipynb)
+
+## Woche 5 
+### Vorlesung
+* [K-Means Clustering](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_5/Lecture_K-Means_Demo.ipynb)
+* [Spectral Clustering](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_5/Lecture_Spectral_Demo.ipynb)
+
+### Labor
+* [Clustering MNIST](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_5/Lab-Clustering-MNIST.ipynb) 
+
+### Aufgabe
+* [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_5/Assignment_Clustering_I.ipynb)
