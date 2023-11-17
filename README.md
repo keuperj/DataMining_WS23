@@ -67,3 +67,20 @@
 
 ### Aufgabe
 * [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_5/Assignment_Clustering_I.ipynb)
+
+## Woche 6
+
+### Vorlesung
+* [Agglomarative Clustering](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_6/Agg-Clustering-Demo.ipynb)
+* [DB-Scan Clustering](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_6/DBScan-Demo.ipynb)
+* [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_6/Mean-Shift-Demo.ipynb)
+ 
+
+### Aufgabe
+*  [Aufgabe 6.1 (freiwilig)](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_6/Assignment_6_Clustering.ipynb)
+
+## Woche 7
+
+### Labor
+* [Keras Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_7/keras_intro.ipynb) 
+* [Tensoflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.71610&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
