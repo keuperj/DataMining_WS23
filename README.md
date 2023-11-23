@@ -84,3 +84,6 @@
 ### Labor
 * [Keras Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_7/keras_intro.ipynb) 
 * [Tensoflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.71610&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+### Aufgabe
+* [Aufgabe 7.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_7/keras_NN_classification.ipynb)
