@@ -87,3 +87,12 @@
 
 ### Aufgabe
 * [Aufgabe 7.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_7/keras_NN_classification.ipynb)
+
+## Woche 8
+**HINWEIS:** für AutoEncoder Beispiele rechnent man am besten auf der GPU -> in Colab: runtime->change runtime type->GPU 
+
+### Vorlesung
+* [Autoencoder demo](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_8/Lecture_autoencoder-denoising.ipynb)
+
+### Aufgabe
+*  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb)
