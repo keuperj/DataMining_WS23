@@ -94,5 +94,5 @@
 ### Vorlesung
 * [Autoencoder demo](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_8/Lecture_autoencoder-denoising.ipynb)
 
-### Aufgabe
+### Aufgabe (Optional)
 *  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb)
