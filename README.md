@@ -107,7 +107,17 @@
 * [DCGAN example](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_9/dcgan.ipynb) -> [Celeb-A Daten](https://filr.hs-offenburg.de/filr/public-link/file-download/0dcf8b8584c4a6580184f1ec7629587d/4769/-855177143421694649/img_align_celeba.zip) 
 * [Diffusion Example](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)
 
-
-
 ### Aufgabe
 *  [Aufgabe 9.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_9/Assignment_9.ipynb) 
+
+## Woche 10
+
+### Lab
+* [NetworkX Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/NetworkX_Tutorial.ipynb)
+* [UseCase I: Social Media - find influencers](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/Network_Usecase.ipynb)
+* [UseCase II: Node2Vec for Movie recommondation](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/node2vec_movielens.ipynb) 
+
+### Aufgabe
+*  [GenSim Library Docs](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
+*  [GenSIM Doc2Vec Example](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/gensim_doc2vec.ipynb)
+*  [Aufgabe 10.1](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/Assignment_10.ipynb)
