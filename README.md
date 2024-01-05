@@ -124,3 +124,16 @@
 * [NetworkX Tutorial](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/NetworkX_Tutorial.ipynb)
 * [UseCase I: Social Media - find influencers](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/Network_Usecase.ipynb)
 * [UseCase II: Node2Vec for Movie recommondation](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_10/node2vec_movielens.ipynb) 
+
+## Woche 12
+### Lab
+
+#### Keras API
+* [Attention Layer](https://keras.io/2.15/api/layers/attention_layers/attention/)
+* [Multiheaded Attention Layer](https://keras.io/api/layers/attention_layers/multi_head_attention/)
+* [Transformer Encoder](https://keras.io/api/keras_nlp/modeling_layers/transformer_encoder/)
+
+#### Examples
+* [Text classification](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/text_classification_with_transformer.ipynb)
+* [Vision Transformer](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/image_classification_with_vision_transformer.ipynb)
+  
