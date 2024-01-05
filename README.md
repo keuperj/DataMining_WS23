@@ -139,4 +139,8 @@
 #### Examples
 * [Text classification](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/text_classification_with_transformer.ipynb)
 * [Vision Transformer](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/image_classification_with_vision_transformer.ipynb)
+* [Text generation with GPT-2](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/gpt2_text_generation_with_kerasnlp.ipynb)
+
+### Aufgabe
+* [Aufgabe 12](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/Assignment_12.ipynb)
   
