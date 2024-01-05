@@ -133,6 +133,9 @@
 * [Multiheaded Attention Layer](https://keras.io/api/layers/attention_layers/multi_head_attention/)
 * [Transformer Encoder](https://keras.io/api/keras_nlp/modeling_layers/transformer_encoder/)
 
+#### Hugging Face pre-trained models
+* [Hugging Face Keras Models](https://huggingface.co/models?library=keras)
+  
 #### Examples
 * [Text classification](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/text_classification_with_transformer.ipynb)
 * [Vision Transformer](https://colab.research.google.com/github/keuperj/DataMining_WS23/blob/main/Week_12/image_classification_with_vision_transformer.ipynb)
